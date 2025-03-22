@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrickCraftLP
-- 👀 I’m interested in ... HTML, Css, JavaScript and PhP
+- 👀 I’m interested in ... Webdesign and Design of informative products
 - 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
